@@ -1,0 +1,10 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    levenshtein (0.2.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  levenshtein
