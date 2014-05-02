@@ -1,5 +1,8 @@
 # -*- coding: utf-8 -*-
 
+# Thanks to
+# https://gist.github.com/tily/1116803
+#
 class JaSound
   LARGE_MAP = {
     %w|ア カ サ タ ナ ハ マ ヤ ラ ワ ガ ザ ダ バ パ| => 'ア',
