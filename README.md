@@ -3,7 +3,7 @@ djslyr_core
 
 ダジャレ殺すべし
 
-Finding Dajares (puns) from your input text.
+Finding Dajares (puns) in your input text.
 
 Install
 --------
