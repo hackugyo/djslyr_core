@@ -17,7 +17,7 @@ def main(args)
   
   enumerable = [args[0]]
   if (opts[:file_path]) then
-    enumerable = File.open(opts[:file_path]).lines
+    enumerable = File.open(opts[:file_path]).each_line
   end
    
   enumerable.each do |s1|
